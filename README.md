@@ -81,8 +81,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]() <!-- Coming soon -->
-- [Video presentation]() <!-- Coming soon -->
+- [Live Demo Link](https://rails-br62.onrender.com/)
+- [Video presentation](https://www.loom.com/share/139e0278309b404597f4661d2cd642cf?sid=f31d6466-3521-4863-b0ce-054651bdb139)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
